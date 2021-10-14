@@ -11,6 +11,11 @@ Things you may want to cover:
 
 - Devise
 - Fonction de message
+- Ajax
+- Jquery
+- Bootstrap
+- Admin_rails
+- Omniauth
 
 ## Technologies outside the curriculum
 
