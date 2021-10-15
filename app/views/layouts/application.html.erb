@@ -17,6 +17,7 @@
     <% else %>
       <li><%= link_to "Se connecter", new_user_session_path %></li>
       <li><%= link_to "S'inscrire", new_user_registration_path %></li>
+      <li><%= link_to "Sign in with Facebook", user_facebook_omniauth_authorize_path, method: :POST %></li>
     <% end %>
     <%= yield %>
   </body>
