@@ -11,15 +11,17 @@ Things you may want to cover:
 
 - Devise
 - Fonction de message
-- Ajax
-- Jquery
+- VueJS
 - Bootstrap
 - Admin_rails
 - Omniauth
 
 ## Technologies outside the curriculum
 
-- Cloudinary
+- Cloudinary  
+We will install the **gem cloudinary** to host the images uploaded by users on another server.  
+We will also use the **gem carrierwave**. 
+More details on [cloudinary GitHub](https://github.com/cloudinary/cloudinary_gem)
 
 ## Execution Procedure
 
