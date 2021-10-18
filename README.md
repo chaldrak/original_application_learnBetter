@@ -11,7 +11,7 @@ Things you may want to cover:
 
 - Devise
 - Fonction de message
-- VueJS
+- Ajax
 - Bootstrap
 - Admin_rails
 - Omniauth
